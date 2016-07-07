@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/194376/b92e56dc6da545eda099c7b2fc85c83e
+bundleId: https://api.rpubs.com/api/v1/document/194376/b92e56dc6da545eda099c7b2fc85c83e
+url: http://rpubs.com/friendimaginary/194376
+when: 1467863312.72671
